@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=amused wolf shoes lemon 789b00
+EXAMCODE=981963276
 
 echo ${EXAMCODE}
